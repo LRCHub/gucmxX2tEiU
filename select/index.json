@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "何度だって、Bluemoon",
+  "base_artist": "月乃",
+  "createdAt": "2026-03-06T09:50:16.959537Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "何度だって、Bluemoon",
+      "artist": "月乃",
+      "has_synced": false,
+      "path": "select/pl_01_何度だって、Bluemoon_月乃.txt"
+    }
+  ]
+}
